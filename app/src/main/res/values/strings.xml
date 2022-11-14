@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Resume</string>
     <string name="full_name">Pouya Esmaili</string>
+    <string name="title_1">Software Engineer @ Divar</string>
+    <string name="body_1">I recently started my work as a software engineer in one of Divar\'s sub companies (Pishgaman). I develop review and anti-fraud tools to make Divar a safer market.</string>
+    <string name="title_2">Software Engineer @ Balad</string>
+    <string name="body_2">Balad has a great path finding service and I mostly worked on this service. It\'s the core of Balad and responds to more than 1000 requests sper second.</string>
+    <string name="title_3">Tech Lead @ Tapsell</string>
+    <string name="body_3">Tapsell has one the largest ad networks in Iran. I lead a team to develop ad processing and suggesting service for Digikala.</string>
 </resources>
