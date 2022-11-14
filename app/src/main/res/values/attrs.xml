@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="profileSize" format="dimension" />
+    <attr name="profileTopMargin" format="dimension" />
+
+    <attr name="nameColor" format="color" />
+    <attr name="nameFontSize" format="dimension" />
+    <attr name="nameTopMargin" format="dimension" />
+
+    <attr name="titleColor" format="color" />
+    <attr name="titleFontSize" format="dimension" />
+    <attr name="titleTopMargin" format="dimension" />
+    <attr name="titleHorizontalMargin" format="dimension" />
+
+    <attr name="bodyColor" format="color" />
+    <attr name="bodyFontSize" format="dimension" />
+    <attr name="bodyTopMargin" format="dimension" />
+    <attr name="bodyHorizontalMargin" format="dimension" />
+</resources>
